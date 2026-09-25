@@ -33,7 +33,7 @@ import type {
 export function usePairplayGame() {
   const [mode, setModeState] = useState<GameMode>("solo");
 
-  const [difficulty, setDifficultyState] = useState<Difficulty>("medium");
+  const [difficulty, setDifficultyState] = useState<Difficulty>("easy");
 
   /*
    * Keep randomized deck state out of SSR.
