@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 140" role="img" aria-label="Q of Hearts">
+<rect x="1" y="1" width="98" height="138" rx="7" fill="#fbf8ef" stroke="#e6e0d4" stroke-width="2"/>
+<rect x="4" y="4" width="92" height="132" rx="5" fill="none" stroke="#172334" stroke-opacity=".045"/>
+<g>
+<text x="16" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+ font-size="21" font-weight="800" letter-spacing="-1" fill="#b52d43">Q</text>
+<path d="M0 9 C-10 3 -12 -3 -8 -7 C-4 -11 -1 -8 0 -5 C1 -8 4 -11 8 -7 C12 -3 10 3 0 9 Z" fill="#b52d43" transform="translate(16 37) rotate(0) scale(0.45)"/>
+</g>
+<g transform="translate(100 140) rotate(180)">
+<text x="16" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+ font-size="21" font-weight="800" letter-spacing="-1" fill="#b52d43">Q</text>
+<path d="M0 9 C-10 3 -12 -3 -8 -7 C-4 -11 -1 -8 0 -5 C1 -8 4 -11 8 -7 C12 -3 10 3 0 9 Z" fill="#b52d43" transform="translate(16 37) rotate(0) scale(0.45)"/>
+</g>
+
+<rect x="31" y="42" width="38" height="60" rx="7" fill="#f6f1e6" stroke="#b52d43" stroke-opacity=".22"/>
+<text x="50" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+ font-size="34" font-weight="800" letter-spacing="-1.5" fill="#b52d43">Q</text>
+<path d="M0 9 C-10 3 -12 -3 -8 -7 C-4 -11 -1 -8 0 -5 C1 -8 4 -11 8 -7 C12 -3 10 3 0 9 Z" fill="#b52d43" transform="translate(50 94) rotate(0) scale(0.6)"/>
+
+</svg>

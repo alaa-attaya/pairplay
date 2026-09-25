@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 140" role="img" aria-label="9 of Diamonds">
+<rect x="1" y="1" width="98" height="138" rx="7" fill="#fbf8ef" stroke="#e6e0d4" stroke-width="2"/>
+<rect x="4" y="4" width="92" height="132" rx="5" fill="none" stroke="#172334" stroke-opacity=".045"/>
+<g>
+<text x="16" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+ font-size="21" font-weight="800" letter-spacing="-1" fill="#b52d43">9</text>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(16 37) rotate(0) scale(0.45)"/>
+</g>
+<g transform="translate(100 140) rotate(180)">
+<text x="16" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+ font-size="21" font-weight="800" letter-spacing="-1" fill="#b52d43">9</text>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(16 37) rotate(0) scale(0.45)"/>
+</g>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(36 37) rotate(0) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(64 37) rotate(0) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(36 57) rotate(0) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(64 57) rotate(0) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(50 72) rotate(0) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(36 87) rotate(180) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(64 87) rotate(180) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(36 107) rotate(180) scale(0.625)"/>
+<path d="M0 -10 L7 0 L0 10 L-7 0 Z" fill="#b52d43" transform="translate(64 107) rotate(180) scale(0.625)"/>
+</svg>
